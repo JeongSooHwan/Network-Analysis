@@ -1,0 +1,5 @@
+Barrett.Samuel LondonEnemies {'weight' : 1}
+Barrett.Samuel StAndrewsLodge {'weight' : 1}
+Marshall.Thomas LondonEnemies {'weight' : 1}
+Eaton.Joseph TeaParty {'weight' : 1}
+Bass.Henry LondonEnemies {'weight' : 1}
